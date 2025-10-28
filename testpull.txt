@@ -1,1 +1,2 @@
-To jest test pull 
+To jest zmiana z folderu B
+
